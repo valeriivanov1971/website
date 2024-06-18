@@ -1,2 +1,2 @@
 # website
-Personal web site
+This is Valeri Ivanov's personal web site
